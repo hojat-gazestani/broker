@@ -5,7 +5,7 @@ Clone the GIT repository :
 
 ~~~bash
 git clone "https://github.com/hojat-gazestani/broker.git"
-cd guacamole-docker-compose
+cd broker
 ./prepare.sh
 docker-compose up -d
 ~~~
