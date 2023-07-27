@@ -4,7 +4,7 @@
 Clone the GIT repository :
 
 ~~~bash
-git clone "https://github.com/boschkundendienst/guacamole-docker-compose.git"
+git clone "https://github.com/hojat-gazestani/broker.git"
 cd guacamole-docker-compose
 ./prepare.sh
 docker-compose up -d
