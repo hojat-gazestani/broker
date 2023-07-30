@@ -12,7 +12,7 @@ docker-compose --version
 ```
 
 
-## Quick start
+## Quick connection broker start 
 Clone the GIT repository :
 
 ~~~bash
